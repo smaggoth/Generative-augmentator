@@ -1,6 +1,6 @@
 # 🐾 Generative Augmentator
 
-**Generative Augmentator** is a prototype designed to generate a solid and generalized image database starting from just a few reference images. By processing user-uploaded images with **evolutionary techniques**, the system expands a small sample size into a diverse dataset capable of training high-accuracy classifiers.
+**Generative Augmentator** Is a prototype designed to generate a solid and generalized image database starting from just a few reference images. By processing user-uploaded images with **evolutionary techniques**, the system expands a small sample size into a diverse dataset capable of training high-accuracy classifiers.
 
 ---
 
